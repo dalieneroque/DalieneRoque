@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu me chamo Daliene Roque </h1>
+<h1 align="center">Olá, eu me chamo Daliene Nonato Lima Roque </h1>
 <h3 align="center">Bem-vindo(a) ao meu perfil! </h3>
 
 <h3 align="center">Tenho um grande zelo por respeitar a essência das normas e valores! </h3> 
