@@ -8,7 +8,7 @@
 
 - 💻 Desenvolvimento Back-end.
 
-- 📚 Estudando CSharp
+- 📚 Estudando CSharp e .Net
 
 
 
