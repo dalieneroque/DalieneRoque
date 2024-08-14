@@ -32,18 +32,17 @@
     <img align="center" alt="Daliene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Daliene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Daliene-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-          
-</div>
-
-### Ferramentas:
-
-<div style="display: inline_block"><br>
+    <img align="center" alt="Daliene-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/github-light.svg">  
     <img align="center" alt="Daliene-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img align="center" alt="Daliene-VisualStudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />   
-    <img align="center" alt="Daliene-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/github-light.svg">          
+
+
+          
+          
 </div>
+
+
 
 
 
