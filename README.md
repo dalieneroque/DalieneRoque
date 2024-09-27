@@ -1,15 +1,15 @@
-<h1 align="center">Olá, eu me chamo Daliene Nonato Lima Roque </h1>
+<h1 align="center">🌟 Olá! Eu sou Daliene Nonato Lima Roque </h1>
 <h3 align="center">Bem-vindo(a) ao meu perfil! </h3>
 
 
 
 - 🎓 Bacharelando Engenharia de Software
 
-- 💻 Desenvolvimento Back-end.
+- 🚀 Desenvolvedora backend em aprendizado
 
-- 📚 Estudando CSharp e .Net
+- 📚 Estudando CSharp, .NET, e programação orientada a objetos
 
-
+Atualmente, estou em fase de aprendizado e construção de projetos com foco em backend. Aqui você encontrará exemplos de aplicações, desafios de programação e projetos colaborativos que estou desenvolvendo enquanto aperfeiçoo minhas habilidades em C# e .NET.
 
 
 
