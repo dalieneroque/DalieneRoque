@@ -1,17 +1,16 @@
-<h1 align="center">🌟 Olá! Eu sou Daliene Nonato Lima Roque </h1>
+<h1 align="center">Olá! Eu sou Daliene Nonato Lima Roque! 🚀</h1>
 <h3 align="center">Bem-vindo(a) ao meu perfil! </h3>
 
 
+- 🎯 Técnica de Enfermagem em transição para Engenharia de Software
 
-- 🎓 Bacharelando Engenharia de Software
+- 🎓 Estudante de Engenharia de Software | 5º período | Unicesumar
 
 - 🚀 Desenvolvedora backend em aprendizado
 
-- 📚 Estudando CSharp, .NET, e programação orientada a objetos
+- 📚 Estudando CSharp, .NET, MySQL, Git/GitHub, HTML, CSS, programação orientada a objetos e mais!
 
 Atualmente, estou em fase de aprendizado e construção de projetos com foco em backend. Aqui você encontrará exemplos de aplicações, desafios de programação e projetos colaborativos que estou desenvolvendo enquanto aperfeiçoo minhas habilidades em C# e .NET.
-
-
 
 
 ### Contatos:
