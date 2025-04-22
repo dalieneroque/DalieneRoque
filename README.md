@@ -10,7 +10,7 @@
 
 - 📚 Atualmente estou aprendendo **CSharp, .Net Core, ASP.NET Core**
 
-### Linguagens e Ferramentas
+### 🤖 Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Daliene-Csharp" title="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
@@ -24,15 +24,33 @@
     <img align="center" alt="Daliene-VisualStudioCode" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />   
 </div>
 
-### Contatos:
+### ✉ Contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daliene-roque-a5b167269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DalieneRoque)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5EsYDnNDky)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzS1CS4ll7-4kWyIwYVhz9w)
 
-![Daliene Roque GitHub stats](https://github-readme-stats.vercel.app/api?username=DalieneRoque&show_icons=true&theme=radical)
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DalieneRoque&show_icons=true&theme=radical" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalieneRoque&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
