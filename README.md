@@ -1,5 +1,6 @@
-<h1 align="center">Olá! Eu sou Daliene Nonato Lima Roque! 🚀</h1>
-<h3 align="center">Bem-vindo(a) ao meu perfil! </h3>
+![Image](https://github.com/user-attachments/assets/360f1a8b-ebb5-4751-b754-3ec1763c2f92)
+
+<h1 align="center">Bem-vindo(a) ao meu perfil! </h1>
 
 
 - 🎓 Estudando **Engenharia de Software**
@@ -51,7 +52,6 @@
   />
 
 </p>
-
 
 
 
