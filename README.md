@@ -3,7 +3,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! </h1>
 
 
-  ### <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> O que estou fazendo
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
 - 🎓 Estudando **Engenharia de Software**
 
@@ -16,7 +16,7 @@
 - 💻 Aprimorando minhas **habilidades de desenvolvimento na Udemy** [Udemy](https://www.udemy.com/).
 
 
-### <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"/> Tecnologias e Ferramentas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias e Ferramentas
 
 <img align="right" alt="" height="220px" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjcxNDIsIm5iZiI6MTc0NTc2Njg0MiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI3VDE1MTQwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0ODU2Nzc5YTQxM2IzM2NjZjMzMjhiNTI4MTBkMTFhMjg2NTY1NzU1YWIzOWE5NGYxNjlkM2Q1OTJjMTg2M2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8ztvCbvvFfqsFE1Y33WY8sf8pkP5Z48MibxDSSjZn3s">
 
