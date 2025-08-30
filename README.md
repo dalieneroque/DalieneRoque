@@ -9,7 +9,7 @@
 
 - 🚀 Procurando uma **oportunidade de estágio**
 
-- 📚 Atualmente estou aprendendo **CSharp, .Net Core, ASP.NET Core**
+- 📚 Atualmente estou aprendendo **CSharp, .Net Core, ASP.NET Core e APIs REST**
   
 - 👩🏻‍🎓 Praticando e aprendendo constantemente com **Bootcamps de Tecnologia da Dio** [Dio](https://www.dio.me/).
   
