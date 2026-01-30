@@ -5,15 +5,17 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
-- 🎓 Estudando **Engenharia de Software**
+- 🎓 Estudando **Engenharia de Software**, em transição de carreira da área da saúde para o desenvolvimento de software.
 
-- 🚀 Procurando uma **oportunidade de estágio**
+- 💼 Procurando uma **oportunidade de estágio** em Desenvolvimento .NET
 
-- 📚 Atualmente estou aprendendo **CSharp, .Net Core, ASP.NET Core e APIs REST**
+- 🛠️ Desenvolvendo projetos práticos com **C#, .NET, ASP.NET Core, APIs REST, Entity Framework e SQL Server.**
+
+- 📦 Construindo um **projeto completo de e-commerce** [TechStore](https://github.com/dalieneroque/TechStore) com backend em .NET e frontend em Blazor
   
-- 👩🏻‍🎓 Praticando e aprendendo constantemente com **Bootcamps de Tecnologia da Dio** [Dio](https://www.dio.me/).
+- 📚 Praticando e aprendendo constantemente com **bootcamps, cursos e projetos reais para aprendizado.**
   
-- 💻 Aprimorando minhas **habilidades de desenvolvimento na Udemy** [Udemy](https://www.udemy.com/).
+- 💻 Foco em evoluir como **Desenvolvedora Backend .NET**
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias e Ferramentas
