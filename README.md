@@ -25,7 +25,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,git,github,mysql,sqlite,windows,visualstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,git,github,mysql,sqlite,postman,windows,visualstudio,vscode,)](https://skillicons.dev)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Rocket" width="30" height="30" /> Contatos
 
