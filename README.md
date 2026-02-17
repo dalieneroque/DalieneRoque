@@ -3,7 +3,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! </h1>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
 - 🎓 Estudando **Engenharia de Software**, em transição de carreira da área da saúde para o desenvolvimento de software.
 
@@ -18,25 +18,49 @@
 - 💻 Foco em evoluir como **Desenvolvedora Backend .NET**
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias e Ferramentas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias e Ferramentas
 
-<img align="right" alt="" height="220px" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjcxNDIsIm5iZiI6MTc0NTc2Njg0MiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI3VDE1MTQwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0ODU2Nzc5YTQxM2IzM2NjZjMzMjhiNTI4MTBkMTFhMjg2NTY1NzU1YWIzOWE5NGYxNjlkM2Q1OTJjMTg2M2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8ztvCbvvFfqsFE1Y33WY8sf8pkP5Z48MibxDSSjZn3s">
+### Language:
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+
+### Frameworks:
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=fff)](#)
+
+### Databases:
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+### Office:
+[![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logoColor=white)](#)
+[![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logoColor=white)](#)
+[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logoColor=white)](#)
+
+### Tools:
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
 
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Rocket" width="30" height="30" /> Contatos
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,git,github,mysql,sqlite,postman,windows,visualstudio,vscode,)](https://skillicons.dev)
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Rocket" width="30" height="30" /> Contatos
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daliene-nonato-lima-roque-a5b167269/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DalieneRoque)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5EsYDnNDky)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzS1CS4ll7-4kWyIwYVhz9w)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logoColor=white)](https://www.linkedin.com/in/daliene-nonato-lima-roque-a5b167269/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?&logoColor=white)](https://github.com/DalieneRoque)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?&logoColor=white)](https://discord.gg/5EsYDnNDky)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?&logoColor=white)](https://www.youtube.com/channel/UCzS1CS4ll7-4kWyIwYVhz9w)
 
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Rocket" width="30" height="30" /> Estatísticas 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Rocket" width="30" height="30" /> Estatísticas 
 
 
 <p>
