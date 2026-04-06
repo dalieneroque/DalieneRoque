@@ -1,21 +1,26 @@
 ![Image](https://github.com/user-attachments/assets/360f1a8b-ebb5-4751-b754-3ec1763c2f92)
 
-<h1 align="center">Bem-vindo(a) ao meu perfil! </h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</div>
+
+<div>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
 - 🎓 Estudando **Engenharia de Software**, em transição de carreira da área da saúde para o desenvolvimento de software.
 
-- 💼 Procurando uma **oportunidade de estágio** em Desenvolvimento .NET
+- 💼 Atualmente, estou em busca de uma **oportunidade de estágio** em Desenvolvimento .NET, com foco em backend.
 
-- 🛠️ Desenvolvendo projetos práticos com **C#, .NET, ASP.NET Core, APIs REST, Entity Framework e SQL Server.**
+- 🛠️ Tenho desenvolvido projetos práticos utilizando **C#, .NET e ASP.NET Core,** criando **APIs REST** e trabalhando com **Entity Framework** e bancos de dados relacionais.
 
-- 📦 Construindo um **projeto completo de e-commerce** [TechStore](https://github.com/dalieneroque/TechStore) com backend em .NET e frontend em Blazor
+- 📦 Entre os projetos, destaco o [TechStore](https://github.com/dalieneroque/TechStore), uma aplicação de e-commerce com backend em .NET e frontend em Blazor, onde aplico conceitos de arquitetura, persistência de dados e organização de código.
   
-- 📚 Praticando e aprendendo constantemente com **bootcamps, cursos e projetos reais para aprendizado.**
+- 📚 Além disso, sigo estudando continuamente por meio de cursos, bootcamps e projetos práticos, com o objetivo de evoluir como **desenvolvedora backend.**
   
-- 💻 Foco em evoluir como **Desenvolvedora Backend .NET**
 
 <hr/>
 
@@ -88,12 +93,12 @@
 
 </p>
 
+
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;Volte+sempre!" alt="Typing SVG" />
 
 <div>
-
 
 
 
