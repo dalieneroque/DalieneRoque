@@ -11,15 +11,27 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
-- 🎓 Estudando **Engenharia de Software**, em transição de carreira da área da saúde para o desenvolvimento de software.
+- 🎓 Estudante de **Engenharia de Software**, em transição de carreira da área da saúde para o desenvolvimento de software.
 
-- 💼 Atualmente, estou em busca de uma **oportunidade de estágio** em Desenvolvimento .NET, com foco em backend.
+- 👩‍🏫 Atualmente, atuo como **Monitora de Programação Orientada a Objetos (POO)**, utilizando a linguagem **Java**, auxiliando estudantes no aprendizado de conceitos como classes, objetos, atributos, métodos, encapsulamento, herança, polimorfismo e boas práticas de programação.
 
-- 🛠️ Tenho desenvolvido projetos práticos utilizando **C#, .NET e ASP.NET Core,** criando **APIs REST** e trabalhando com **Entity Framework** e bancos de dados relacionais.
+- 💼 Estou em busca de uma **oportunidade de estágio em Desenvolvimento .NET**, com foco em **backend**, onde possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
-- 📦 Entre os projetos, destaco o [TechStore](https://github.com/dalieneroque/TechStore), uma aplicação de e-commerce com backend em .NET e frontend em Blazor, onde aplico conceitos de arquitetura, persistência de dados e organização de código.
-  
-- 📚 Além disso, sigo estudando continuamente por meio de cursos, bootcamps e projetos práticos, com o objetivo de evoluir como **desenvolvedora backend.**
+- 🛠️ Tenho desenvolvido projetos práticos utilizando **C#, .NET e ASP.NET Core**, criando **APIs REST**, trabalhando com **Entity Framework**, bancos de dados relacionais e conceitos de arquitetura e boas práticas de desenvolvimento.
+
+- 🚀 Entre os projetos que desenvolvo, destaco o **[TechStore](https://github.com/dalieneroque/TechStore)**, uma aplicação de e-commerce com **backend em .NET e frontend em Blazor**, na qual aplico conceitos de arquitetura, persistência de dados, orientação a objetos e organização de código.
+
+- 👩‍💻 Também destaco minha atuação no **[Programa Ampliar - UniCesumar 2026](https://github.com/dalieneroque/Programa-Ampliar-Unicesumar-2026)**, projeto relacionado às atividades de monitoria de **Programação Orientada a Objetos com Java**, desenvolvido com foco em aprendizado prático, aplicação dos conceitos de POO e apoio aos estudantes.
+
+- 📚 Estou em constante aprendizado por meio de **cursos, bootcamps, monitoria e projetos práticos**, buscando evoluir continuamente como **desenvolvedora backend** e ampliar minha experiência em desenvolvimento de software.
+
+### 🔗 Projetos em destaque
+
+📦 **[TechStore](https://github.com/dalieneroque/TechStore)**  
+Aplicação de e-commerce desenvolvida com **.NET + Blazor**, explorando APIs, persistência de dados, arquitetura e boas práticas.
+
+☕ **[Programa Ampliar - UniCesumar 2026](https://github.com/dalieneroque/Programa-Ampliar-Unicesumar-2026)**  
+Projeto relacionado à **Monitoria de Programação Orientada a Objetos com Java**, com foco em conceitos fundamentais de POO e desenvolvimento prático.
   
 
 <hr/>
